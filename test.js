@@ -1,4 +1,3 @@
 const test = "test";
 alert("привіт") 
-
-bla 
+q

@@ -1,2 +1,4 @@
-const test = "test"; 
-пагап
+const test = "test";
+alert("привіт") 
+
+bla 
